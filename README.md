@@ -4,13 +4,6 @@ A beautifully designed real-time analog clock built using HTML, CSS, and JavaScr
 
 ---
 
-## 🌍 Live Demo
-
-(Optional) Add your deployed link here  
-Example: https://your-clock-app.vercel.app
-
----
-
 ## ✨ Features
 
 - 🕰️ Real-time analog clock movement
